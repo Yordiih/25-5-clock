@@ -1,0 +1,1 @@
+The 25+5 Clock is a Pomodoro timer application built using React. It allows users to set the duration of the work session (25 minutes by default) and the duration of the break session (5 minutes by default), and then alternates between the two until the user resets the timer.
