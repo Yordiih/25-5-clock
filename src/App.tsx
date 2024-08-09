@@ -65,7 +65,7 @@ function App() {
     audio.currentTime = 0;
 
   };
-  const startStop = (displayState: DisplayState) => {
+  const startStop = () => {
     setDisplayState((prev) => ({
       ...prev,
       timeRunning: !prev.timeRunning,
